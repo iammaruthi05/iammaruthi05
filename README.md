@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iammaruthi05
+- 👋 Hi, I’m Maruthi.
 - 👀 I’m interested in Drawing,Animes
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me "maruthibhai18@gmail.com"
